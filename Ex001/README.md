@@ -35,7 +35,7 @@ ___
  <img src="https://cdn.jim-nielsen.com/macos/256/figma-2021-05-05.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
  <img src="https://static.tildacdn.com/tild3335-6632-4430-a437-646336623863/Risk-session2-22.png" title="Bitrix24" alt="Bitrix24" width="40" height="40"/>&nbsp;
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>&nbsp;
- <img src="https://www.flowgear.net/wp-content/uploads/2019/03/Microsoft_Office_Excel_.png" title="MS Excel" alt="MS Excel" width="40" height="40"/>&nbsp;
+ <img src="https://getdrawings.com/free-icon/excel-download-icon-60.png" title="MS Excel" alt="MS Excel" width="40" height="40"/>&nbsp;
  </div>
 
 ___
